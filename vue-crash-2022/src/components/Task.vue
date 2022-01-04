@@ -15,7 +15,7 @@ export default{
     },
     methods:{
         onDelete(id){
-console.log(id);
+console.log(id); 
         },
     },
 }
