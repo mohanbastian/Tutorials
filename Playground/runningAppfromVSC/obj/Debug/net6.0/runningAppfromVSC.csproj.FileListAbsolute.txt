@@ -1,0 +1,15 @@
+/Users/gmbastiampillai/Documents/GitHub/Tutorials/Playground/runningAppfromVSC/bin/Debug/net6.0/runningAppfromVSC
+/Users/gmbastiampillai/Documents/GitHub/Tutorials/Playground/runningAppfromVSC/bin/Debug/net6.0/runningAppfromVSC.deps.json
+/Users/gmbastiampillai/Documents/GitHub/Tutorials/Playground/runningAppfromVSC/bin/Debug/net6.0/runningAppfromVSC.runtimeconfig.json
+/Users/gmbastiampillai/Documents/GitHub/Tutorials/Playground/runningAppfromVSC/bin/Debug/net6.0/runningAppfromVSC.dll
+/Users/gmbastiampillai/Documents/GitHub/Tutorials/Playground/runningAppfromVSC/bin/Debug/net6.0/runningAppfromVSC.pdb
+/Users/gmbastiampillai/Documents/GitHub/Tutorials/Playground/runningAppfromVSC/obj/Debug/net6.0/runningAppfromVSC.csproj.AssemblyReference.cache
+/Users/gmbastiampillai/Documents/GitHub/Tutorials/Playground/runningAppfromVSC/obj/Debug/net6.0/runningAppfromVSC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gmbastiampillai/Documents/GitHub/Tutorials/Playground/runningAppfromVSC/obj/Debug/net6.0/runningAppfromVSC.AssemblyInfoInputs.cache
+/Users/gmbastiampillai/Documents/GitHub/Tutorials/Playground/runningAppfromVSC/obj/Debug/net6.0/runningAppfromVSC.AssemblyInfo.cs
+/Users/gmbastiampillai/Documents/GitHub/Tutorials/Playground/runningAppfromVSC/obj/Debug/net6.0/runningAppfromVSC.csproj.CoreCompileInputs.cache
+/Users/gmbastiampillai/Documents/GitHub/Tutorials/Playground/runningAppfromVSC/obj/Debug/net6.0/runningAppfromVSC.dll
+/Users/gmbastiampillai/Documents/GitHub/Tutorials/Playground/runningAppfromVSC/obj/Debug/net6.0/refint/runningAppfromVSC.dll
+/Users/gmbastiampillai/Documents/GitHub/Tutorials/Playground/runningAppfromVSC/obj/Debug/net6.0/runningAppfromVSC.pdb
+/Users/gmbastiampillai/Documents/GitHub/Tutorials/Playground/runningAppfromVSC/obj/Debug/net6.0/runningAppfromVSC.genruntimeconfig.cache
+/Users/gmbastiampillai/Documents/GitHub/Tutorials/Playground/runningAppfromVSC/obj/Debug/net6.0/ref/runningAppfromVSC.dll
